@@ -1,1 +1,4 @@
 # DDos-attack-classification
+Distributed Denial of Service (DDoS) attacks are significant threats to the stability and reliability of online services. Detecting and mitigating these attacks is crucial to maintaining the integrity of networks and services. This project focuses on classifying DDoS attacks using various machine learning models. The dataset used for this project is the IDS 2017 dataset, which is publicly available and provides a comprehensive set of features for detecting DDoS attacks.
+
+The project involves several key steps: data preprocessing, exploration, splitting, model training, evaluation, and comparison. Each step is crucial to building an effective DDoS detection model. We employ multiple machine learning algorithms, including Random Forest, Logistic Regression, and Neural Networks, to classify the attacks and evaluate their performance using various metrics.
